@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-31T12:28:53 EET" name="Default suite" finished-at="2024-03-31T12:31:45 EET" duration-ms="172191">
+    <groups>
+    </groups>
+    <test started-at="2024-03-31T12:28:53 EET" name="Default test" finished-at="2024-03-31T12:31:45 EET" duration-ms="172191">
+      <class name="epallettest.Testing">
+        <test-method signature="testing()[pri:0, instance:epallettest.Testing@1ed6388a]" started-at="2024-03-31T12:28:53 EET" name="testing" finished-at="2024-03-31T12:31:45 EET" duration-ms="172131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- epallettest.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
